@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-json",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "JSON tools MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "json",
     "gatewaySlug": "json",
-    "sourceHash": "v1-22556614837efabd450bfc3a7a34bff82abcf25a037e97e9d40458e73112a444",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-1d7ab75f82b9b99c72dd276e55be2d7eec164925c6db84bad22174dd604c82c8",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
